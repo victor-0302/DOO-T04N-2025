@@ -1,3 +1,3 @@
-class HelloWorld {
+public class hello {
   public static void main(string[] args) {
-     System.out.println("Hello, World! :D:D");}}
+     System.out.println("Hello World! :D:D");}}
