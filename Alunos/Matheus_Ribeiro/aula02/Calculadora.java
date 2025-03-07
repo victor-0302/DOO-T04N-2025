@@ -3,7 +3,7 @@ package system;
 import java.util.Scanner;
 import java.math.*;
 
-public class Principal {
+public class Calculadora {
 	static Scanner scan = new Scanner(System.in);
 	public static void main(String[] args) {
 		sistema();
